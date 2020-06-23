@@ -1,5 +1,7 @@
 // Vérification de fonction
 // Ceci est modifié dans la branche fork-test
+
+// Je remodifie la branch pour collègue
 #include<stdio.h>
 
 float fonc(float x) {
