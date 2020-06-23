@@ -1,5 +1,5 @@
 // Vérification de fonction
-// Ceci est modifié dans la branche fork-test
+// Ceci est modifié dans la branche LOLIT !!
 #include<stdio.h>
 
 float fonc(float x) {
@@ -13,7 +13,7 @@ int main(void) {
     float s = fonc(3) ;
     printf("fonc(3) = %.3f\n", s) ;
     printf("f(4) = %.3f\n", fonc(4)) ;
-    printf("f(5) = %.3f\n", fonc(5)) ; //ajouté avec la branche
+    printf("f(5) = %.3f\n", fonc(5)) ; 
 
 return 0 ;
 }
